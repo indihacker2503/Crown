@@ -5,6 +5,9 @@
   "private": true,
   "author": "darlington gospel<darlingtongospel@gmail.com>",
   "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  },
   "keywords": [
     "nextjs",
     "starter",
