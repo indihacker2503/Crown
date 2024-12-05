@@ -90,13 +90,13 @@ const wagmiConfig = createConfig({
 })
 
 const demoAppInfo = {
-  appName: 'Dapp Funds dApp',
+  appName: 'MemoryX',
 }
 
 const getSiweMessageOptions: GetSiweMessageOptions = () => ({
   statement: `
   Once you're signed in, you'll be able to access all of our dApp's features.
-  Thank you for partnering with CrowdFunding!`,
+  Thank you for partnering with MemoryX!`,
 })
 
 export function Providers({
