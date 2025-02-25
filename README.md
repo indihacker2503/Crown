@@ -1,7 +1,7 @@
 # Crown Project Documentatio
 
 ![Play2EarnX](./screenshots/0.png)
-The project revolves around `Play2EarnX.sol`, a Solidity-written CrossFi smart contract. It leverages the OpenZeppelin library to ensure secure and standardized development of the contract.
+The project revolves around `Play2EarnX.sol`, a Solidity-written Creator smart contract. It leverages the OpenZeppelin library to ensure secure and standardized development of the contract.
 
 ![Play2EarnX](./screenshots/1.png)
 
