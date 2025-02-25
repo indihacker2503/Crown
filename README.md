@@ -1,4 +1,4 @@
-# Crown Project Documentatio
+# Crown Project Documentation
 
 ![Play2EarnX](./screenshots/0.png)
 The project revolves around `Play2EarnX.sol`, a Solidity-written Creator smart contract. It leverages the OpenZeppelin library to ensure secure and standardized development of the contract.
